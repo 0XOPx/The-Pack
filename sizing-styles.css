@@ -1,0 +1,18 @@
+/* This was extracted from The CSS Pack by OXOP */
+/* https://github.com/0XOPx/The-CSS-Pack */
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-screen {
+  width: 100vw;
+}
+
+.h-screen {
+  height: 100vh;
+}
